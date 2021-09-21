@@ -4,6 +4,10 @@ A competition full of codes, talent and team work. The idea had come after the e
 
 Topic - Operating System Making
 
+Thumbnail - [Image](https://cdn2.scratch.mit.edu/get_image/gallery/30316640_170x100.png)
+
+Logo - Shared on the main scratch studio as a project
+
 Teams - Red, Blue, Green, Yellow
 
 Prize - follows from all the teams to your team, extra follows by steveagent's all accounts and loves and favs on some of your projects by participants. (given to all team mates of the winning team)
@@ -19,7 +23,8 @@ If you are not telling on which team you want to be, then you will be added on g
 
 Choose team - May I join (team) team ?
 
-Team links - 
+Team links -
+
 Red-https://scratch.mit.edu/studios/30316807
 
 Blue- https://scratch.mit.edu/studios/30316832/
@@ -30,12 +35,18 @@ https://scratch.mit.edu/studios/30316862/
 Yellow-
 https://scratch.mit.edu/studios/30316873/
 
-remember - Say these stuff on the [main studio](https://scratch.mit.edu/studios/30316640) and don't forget to use the motto of teams also, and be kind and try to best to win your team! use this name for the os as your team - rOS(red team)
-bOS(blue team)
-gOS(green team)
-yOS(yellow team)
+remember - Say these stuff on the [main studio](https://scratch.mit.edu/studios/30316640) and don't forget to use the motto of teams also, and be kind and try to best to win your team! use this name for the os as your team - 
+
+1. rOS(red team)
+
+2. bOS(blue team)
+
+3. gOS(green team)
+
+4. yOS(yellow team)
 
 Rounds upcoming -
+
      i. 30 september 2021 - Start screen round
      ii. 8 october 2021 - Desktop round
      iii. 15 october 2021 - utility round
@@ -44,21 +55,44 @@ Rounds upcoming -
      vi. 5 november - Results and prizes to be given
      
 
-#### Teams
+### Teams
 
 As the name suggest, the teams here are also a group for having full teamwork for best results. Click the texted links are mentioned below to go directly from here :-
 
-[Red Team]
+####Red Team
 
-[Link](url) and ![Image](src)
+The red hot 🔥🔥 team of the competition. This team has a fiery logo to fire up your best creation to the line of victory !
+
+[Click me to go to Red team](https://scratch.mit.edu/studios/30316807/) and this is the logo of red👉 ![Image](https://cdn2.scratch.mit.edu/get_image/gallery/30316807_170x100.png)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+####Blue Team
 
-### Jekyll Themes
+The blue splash 💦 team of the competition. This team has an ancient mega water logo to splash up your best creation to the line of victory !
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SteveAgent/scratch.code.wars.scw/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Click me to go to Blue team](https://scratch.mit.edu/studios/30316832/) and this is the logo of blue👉 ![Image](https://cdn2.scratch.mit.edu/get_image/gallery/30316832_170x100.png)
+```
 
-### Support or Contact
+####Green Team
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The Green herb 🌿 team of the competition. This team has a mega herb lighter hammer  logo to herb up your best creation to the line of victory !
+
+[Click me to go to Green team](https://scratch.mit.edu/studios/30316862/) and this is the logo of green👉 ![Image](https://cdn2.scratch.mit.edu/get_image/gallery/30316862_170x100.png)
+```
+
+####Yellow Team
+
+The yellow gold 🌟 team of the competition. This team has a bold gold crossbow logo to gold up your best creation to the line of victory !
+
+[Click me to go to yellow team](https://scratch.mit.edu/studios/30316873/) and this is the logo of yellow👉 ![Image](https://cdn2.scratch.mit.edu/get_image/gallery/30316873_170x100.png)
+```
+
+##"victory is not you win, it is what you did"
+
+Hope you find this useful, And for problems or anything say on the main studio (mentioned up)
+
+
+
+
+
+##Best of luck 😁
