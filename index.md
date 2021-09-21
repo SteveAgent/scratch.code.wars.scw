@@ -64,14 +64,16 @@ As the name suggest, the teams here are also a group for having full teamwork fo
 The red hot 🔥🔥 team of the competition. This team has a fiery logo to fire up your best creation to the line of victory !
 
 [Click me to go to Red team](https://scratch.mit.edu/studios/30316807/) and this is the logo of red👉 ![Image](https://cdn2.scratch.mit.edu/get_image/gallery/30316807_170x100.png)
-```
+
+
+
 
 ####Blue Team
 
 The blue splash 💦 team of the competition. This team has an ancient mega water logo to splash up your best creation to the line of victory !
 
 [Click me to go to Blue team](https://scratch.mit.edu/studios/30316832/) and this is the logo of blue👉 ![Image](https://cdn2.scratch.mit.edu/get_image/gallery/30316832_170x100.png)
-```
+
 
 
 ####Green Team
@@ -79,7 +81,7 @@ The blue splash 💦 team of the competition. This team has an ancient mega wate
 The Green herb 🌿 team of the competition. This team has a mega herb lighter hammer  logo to herb up your best creation to the line of victory !
 
 [Click me to go to Green team](https://scratch.mit.edu/studios/30316862/) and this is the logo of green👉 ![Image](https://cdn2.scratch.mit.edu/get_image/gallery/30316862_170x100.png)
-```
+
 
 
 ####Yellow Team
@@ -87,7 +89,7 @@ The Green herb 🌿 team of the competition. This team has a mega herb lighter h
 The yellow gold 🌟 team of the competition. This team has a bold gold crossbow logo to gold up your best creation to the line of victory !
 
 [Click me to go to yellow team](https://scratch.mit.edu/studios/30316873/) and this is the logo of yellow👉 ![Image](https://cdn2.scratch.mit.edu/get_image/gallery/30316873_170x100.png)
-```
+
 
 ##"victory is not you win, it is what you did"
 
