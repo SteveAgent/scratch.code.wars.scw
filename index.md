@@ -100,3 +100,12 @@ Hope you find this useful, And for problems or anything say on the main studio (
 
 
 ##Best of luck 😁
+
+
+-UPDATES
+
+22 september 2021 - Added a new label on website (updates)
+
+21 september 2021 (steve's birthday) - Completed website
+
+19 september 2021 - Starting of this nice competition
